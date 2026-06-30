@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Capitán Cometa</string>
+    <string name="description1">Protege la ciudad usando velocidad, valentía y una gran capacidad de liderazgo.</string>
+    <string name="power1">Poder especial: carrera supersónica.</string>
+    <string name="hero2">Estrella Solar</string>
+    <string name="description2">Convierte la energía solar en escudos de luz para defender a los ciudadanos.</string>
+    <string name="power2">Poder especial: escudo luminoso.</string>
+    <string name="hero3">Tormenta Azul</string>
+    <string name="description3">Controla el viento y la lluvia para detener desastres y apagar incendios.</string>
+    <string name="power3">Poder especial: control climático.</string>
+    <string name="hero4">Sombra Ágil</string>
+    <string name="description4">Se mueve en silencio, rescata personas y resuelve problemas con inteligencia.</string>
+    <string name="power4">Poder especial: sigilo absoluto.</string>
+    <string name="hero5">Titanio</string>
+    <string name="description5">Tiene una fuerza increíble y ayuda a reconstruir la ciudad luego de cada emergencia.</string>
+    <string name="power5">Poder especial: fuerza metálica.</string>
+    <string name="hero6">Neón</string>
+    <string name="description6">Usa tecnología avanzada para crear herramientas de rescate y comunicación.</string>
+    <string name="power6">Poder especial: invención instantánea.</string>
+</resources>
